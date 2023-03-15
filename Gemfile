@@ -1,4 +1,4 @@
-source "https://gems.ruby-china.com"
+source "http://rubygems.org"
 
 gem 'jekyll-admin', group: :jekyll_plugins
 gem 'jekyll-paginate', group: :jekyll_plugins
